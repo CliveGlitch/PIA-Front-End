@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ice Pick Lodge</title>
     <link rel = "icon" href = "../images/Icon.png" type = "image/x-icon">
-    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="slider.css" />
     <link
       rel="stylesheet"
