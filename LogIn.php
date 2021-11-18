@@ -8,7 +8,7 @@
       <div class="form_container">
           
           <div class="input_form_container">
-          <input type="text" name="name" placeholder="Username or Email"> 
+          <input type="text" name="uid" placeholder="Username or Email"> 
           </div>
           
           <div class="input_form_container">
