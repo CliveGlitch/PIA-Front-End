@@ -8,10 +8,10 @@ if (isset($_POST["submit"])){
     $pwd = $_POST["pwd"];
     $pwdrepeat = $_POST["pwdrepeat"];
 
-    header("location: ../index.php");
+    header("location: ../log in/indexLogIn.php");
     exit();
 
 } else {
-    header("location: ../index.php");
+    header("location: ../log in/indexLogIn.php");
     exit();
 }
