@@ -44,7 +44,7 @@
             <a href="LogIn.php" class="button">Log In</a>
           </li>
           <li class="navbar__btn">
-            <a href="SignIn.php" class="button">Sign Up</a>
+            <a href="SignUp.php" class="button">Sign Up</a>
           </li>
         </ul>
       </div>
