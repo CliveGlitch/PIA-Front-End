@@ -2,7 +2,7 @@
   include_once 'Header.php'
 ?>
 <section class="log_in_form">
-  <form class="form" action="login.inc.php" method="post">
+  <form class="form" action="Includes/login.inc.php" method="post">
       
       <h1 class="form_title">Log In</h1>
       <div class="form_container">
