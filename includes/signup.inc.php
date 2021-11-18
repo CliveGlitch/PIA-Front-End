@@ -1,6 +1,6 @@
 <?php
  
-if (isset($_POST["SUBMIT"])){
+if (isset($_POST["submit"])){
     echo "It Works";
 } else {
     header("location: ../SignUp.php");
