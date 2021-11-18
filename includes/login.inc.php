@@ -7,8 +7,8 @@ if (isset($_POST["submit"])){
 
     header("location: ../index.php");
     exit();
-    
+
 } else {
-    header("location: ../SignUp.php");
+    header("location: ../LogIn.php");
     exit();
 }
