@@ -492,6 +492,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  position: fixed;
+  bottom: 0;
 }
 
 #footer__logo {
@@ -752,6 +754,7 @@
   text-align: center;
   color: white;
   font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 input[type="text"],
@@ -779,6 +782,7 @@ input[type="password"]{
   padding: 15px 20px;
   border-radius: 5px;
   cursor: pointer;
+  margin-bottom: 1rem;
 }
 .form_button:hover{
   background: #ff8834;
@@ -786,11 +790,14 @@ input[type="password"]{
 }
 .form_text{
   text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
 }
 .link{
   text-decoration: none;
-    color: #BB5B16;
+  color: #BB5B16;
   font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
 }
 .link:hover{
    color: #ff8834;;
