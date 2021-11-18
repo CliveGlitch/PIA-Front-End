@@ -68,5 +68,5 @@
     </div>
 
 <?php
-  include_once '../Footer.php'
+  include_once '<div class="">Footer.php'
 ?>
