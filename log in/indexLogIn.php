@@ -10,7 +10,7 @@
           <h1>Pathologic 2 is now available in Xbox Game Pass! </h1>
           <p>Try the game now if you have Xbox Game pass</p>
         </div>
-        <img src="images/Game pass.jpg" style="width: 100%; height: 100%;">
+        <img src="../images/Game pass.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fade">
@@ -18,7 +18,7 @@
           <h1>New Trailer of Know by heart out!</h1>
           <p>Check it out!</p>
         </div>
-        <img src="images/Know by heart.jpg" style="width: 100%; height: 100%;">
+        <img src="../images/Know by heart.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fade">
@@ -26,7 +26,7 @@
           <h1>The Marble Nest is Here!</h1>
           <p>It's a two-hour spinoff story in the world of the Pathologic 2.</p>
         </div>
-        <img src="images/the marbel nest.jpg" style="width: 100%; height: 100%;">
+        <img src="../images/the marbel nest.jpg" style="width: 100%; height: 100%;">
       </div>
       <!-- /fade css -->
       
@@ -47,22 +47,22 @@
       <h1 class="gallery-all-title"> Check out our games! </h1>
       <div class="gallery-all">
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Pathologic 2.png" alt="">
+          <img class="img-gallery" src="../images/S - Pathologic 2.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Know by Heart.png" alt="">
+          <img class="img-gallery" src="../images/S - Know by Heart.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Cargo.png" alt="">
+          <img class="img-gallery" src="../images/S - Cargo.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Knock Knock.png" alt="">
+          <img class="img-gallery" src="../images/S - Knock Knock.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Pathologic.png" alt="">
+          <img class="img-gallery" src="../images/S - Pathologic.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - The Void.png" alt="">
+          <img class="img-gallery" src="../images/S - The Void.png" alt="">
         </div>
       </div>
     </div>
