@@ -743,8 +743,14 @@ body {
   align-items: center;
 }
 
+.sign_in_form{
+  background-image: url('images/Art sign in.jpg');
+  width: 100%;
+  height: 85%;
+  position: absolute;
+}
 
-.form_all{
+.log_in_form{
   background-image: url('images/Art Log In.jpg');
   width: 100%;
   height: 85%;
