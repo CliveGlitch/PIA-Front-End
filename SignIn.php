@@ -4,7 +4,7 @@
 <div class="sign_in_form">
   <form class="form">
       
-      <h1 class="form_title">Sign In</h1>
+      <h1 class="form_title">Sign Up</h1>
       <div class="form_container">
 
         <div class="input_form_container">
@@ -20,7 +20,7 @@
           
         </div>
         <input type="submit" value="Login" class="form_button">
-        <p class="form_text">Already have and account? <a class="link" href="Log In.php">Log In </a></p>
+        <p class="form_text">Already have and account? <a class="link" href="LogIn.php">Log In </a></p>
       </div>
   </form>
 </div>
