@@ -98,19 +98,19 @@
           <img class="img-gallery" src="images/S - Pathologic 2.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="Images/S - Know by Heart.png" alt="">
+          <img class="img-gallery" src="images/S - Know by Heart.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="Images/S - Cargo.png" alt="">
+          <img class="img-gallery" src="images/S - Cargo.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="Images/S - Knock Knock.png" alt="">
+          <img class="img-gallery" src="images/S - Knock Knock.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="Images/S - Pathologic.png" alt="">
+          <img class="img-gallery" src="images/S - Pathologic.png" alt="">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="Images/S - The Void.png" alt="">
+          <img class="img-gallery" src="images/S - The Void.png" alt="">
         </div>
       </div>
     </div>
