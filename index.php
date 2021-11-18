@@ -25,7 +25,7 @@
     <!-- Navbar Section -->
     <nav class="navbar">
       <div class="navbar__container">
-        <a href="index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
+        <a href="Index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
         <div class="navbar__toggle" id="mobile-menu">
           <span class="bar"></span> <span class="bar"></span>
           <span class="bar"></span>
@@ -38,13 +38,13 @@
             <a href="Games.php" class="navbar__links">Games</a>
           </li>
           <li class="navbar__item">
-            <a href="About us.php" class="navbar__links">About Us</a>
+            <a href="AboutUs.php" class="navbar__links">About Us</a>
           </li>
           <li class="navbar__btn">
-            <a href="Log In.php" class="button">Log In</a>
+            <a href="LogIn.php" class="button">Log In</a>
           </li>
           <li class="navbar__btn">
-            <a href="Sign In.php" class="button">Sign Up</a>
+            <a href="SignIn.php" class="button">Sign Up</a>
           </li>
         </ul>
       </div>

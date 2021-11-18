@@ -25,26 +25,26 @@
     <!-- Navbar Section -->
     <nav class="navbar">
       <div class="navbar__container">
-        <a href="index.html" id="navbar__logo"></i>Ice Pick Lodge</a>
+        <a href="Index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
         <div class="navbar__toggle" id="mobile-menu">
           <span class="bar"></span> <span class="bar"></span>
           <span class="bar"></span>
         </div>
         <ul class="navbar__menu">
           <li class="navbar__item">
-            <a href="News.html" class="navbar__links">News</a>
+            <a href="News.php" class="navbar__links">News</a>
           </li>
           <li class="navbar__item">
-            <a href="Games.html" class="navbar__links">Games</a>
+            <a href="Games.php" class="navbar__links">Games</a>
           </li>
           <li class="navbar__item">
-            <a href="About us.html" class="navbar__links">About Us</a>
+            <a href="AboutUs.php" class="navbar__links">About Us</a>
           </li>
           <li class="navbar__btn">
-            <a href="Log In.html" class="button">Log In</a>
+            <a href="LogIn.php" class="button">Log In</a>
           </li>
           <li class="navbar__btn">
-            <a href="Sign In.html" class="button">Sign Up</a>
+            <a href="SignIn.php" class="button">Sign Up</a>
           </li>
         </ul>
       </div>
