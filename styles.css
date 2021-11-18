@@ -745,9 +745,10 @@ body {
 
 
 .form_all{
-  background-color:#181818;
+  background-image: url('images/Art Log In.jpg');
   background-position: center center;
   background-size: cover;
+  
 }
 
 .form_container{

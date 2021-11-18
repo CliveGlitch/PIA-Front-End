@@ -2,7 +2,6 @@
   include_once 'Header.php'
 ?>
 <div class="form_all">
-  <img class="about-us-img" src="images/Art Log In.jpg">
   <form class="form">
       
       <h1 class="form_title">Log In</h1>
