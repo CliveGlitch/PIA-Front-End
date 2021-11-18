@@ -27,7 +27,7 @@
         <input type="password" name="pwdrepeat" placeholder="Repear Password">
         </div>
 
-        <input type="submit" name="submit" value="Login" class="form_button">
+        <input type="submit" name="submit" value="Sign Up" class="form_button">
         <p class="form_text">Already have and account? <a class="link" href="LogIn.php">Log In </a></p>
       </div>
   </form>

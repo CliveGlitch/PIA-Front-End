@@ -15,7 +15,7 @@
           <input type="password" name="pwd" placeholder="Password">
           </div>
 
-          <input type="submit" value="Login" class="form_button">
+          <input type="submit" value="Log in" class="form_button">
           <p class="form_text">Don't have an account? <a class="link" href="SignUp.php">Sign up </a></p>
       </div>
   </form>
