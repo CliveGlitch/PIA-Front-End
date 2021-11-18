@@ -42,6 +42,43 @@
       <!-- /onclick js -->
     </div>
 
+    <!-- Services Section -->
+    <div class="gallery-container">
+      <h1 class="gallery-all-title"> Check out our games! </h1>
+      <div class="gallery-all">
+        <div class="gallery">
+          <img class="img-gallery" src="images/S - Pathologic 2.png" alt="">
+          <span class="title-gallery">Lorem ipsum dolor</span>
+          <span class="text-gallery">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span>
+        </div>
+        <div class="gallery">
+          <img class="img-gallery" src="Images/S - Know by Heart.png" alt="">
+          <span class="title-gallery">Lorem ipsum dolor</span>
+          <span class="text-gallery">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span>
+        </div>
+        <div class="gallery">
+          <img class="img-gallery" src="Images/S - Cargo.png" alt="">
+          <span class="title-gallery">Lorem ipsum dolor</span>
+          <span class="text-gallery">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span>
+        </div>
+        <div class="gallery">
+          <img class="img-gallery" src="Images/S - Knock Knock.png" alt="">
+          <span class="title-gallery">Lorem ipsum dolor</span>
+          <span class="text-gallery">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span>
+        </div>
+        <div class="gallery">
+          <img class="img-gallery" src="Images/S - Pathologic.png" alt="">
+          <span class="title-gallery">Lorem ipsum dolor</span>
+          <span class="text-gallery">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span>
+        </div>
+        <div class="gallery">
+          <img class="img-gallery" src="Images/S - The Void.png" alt="">
+          <span class="title-gallery">Lorem ipsum dolor</span>
+          <span class="text-gallery">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span>
+        </div>
+      </div>
+    </div>
+
 <?php
   include_once 'Footer.php'
 ?>
