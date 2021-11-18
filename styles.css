@@ -746,9 +746,8 @@ body {
 
 .form_all{
   background-image: url('images/Art Log In.jpg');
-  height: 100%;
   width: 100%;
-  position: relative;
+  position:absolute;
 }
 
 .form_container{
