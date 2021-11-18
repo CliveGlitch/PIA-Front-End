@@ -4,10 +4,10 @@
 <div class="sign_in_form">
   <form class="form">
       
-      <h1 class="input_form_container">Sign In</h1>
+      <h1 class="form_title">Sign In</h1>
       <div class="form_container">
 
-        <div class="input-contenedor">
+        <div class="input_form_container">
         <input type="text" placeholder="Nombre Completo">
         </div>
           
