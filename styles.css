@@ -712,7 +712,7 @@ body {
     }
 }
 .about-us-all{
-  background-color: #131313;
+  background-color:#131313;
 }
 
 .gallery-all-title{
@@ -745,7 +745,8 @@ body {
 
 
 .form_all{
-  background-color: #131313;
+  background-color:#181818;
+  position: absolute;
 }
 
 .form_container{
