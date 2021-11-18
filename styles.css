@@ -747,6 +747,7 @@ body {
 .form_all{
   background-image: url('images/Art Log In.jpg');
   background-position: center center;
+  background-color:#131313;
   height: 100%;
   width: 100%;
 }
