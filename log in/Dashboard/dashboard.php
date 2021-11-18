@@ -4,7 +4,21 @@
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ice Pick Lodge</title>
+    <link rel = "icon" href = "../../images/Icon.png" type = "image/x-icon">
+    <link rel="stylesheet" href="../../styles.css" />
+    <link rel="stylesheet" href="../../slider.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
+      integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -28,36 +42,31 @@
         <div class="w-100">
 
          <!-- Navbar -->
-         <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
-            <div class="container">
-    
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-    
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <form class="form-inline position-relative d-inline-block my-2">
-                  <input class="form-control" type="search" placeholder="Buscar" aria-label="Buscar">
-                  <button class="btn position-absolute btn-search" type="submit"><i class="icon ion-md-search"></i></button>
-                </form>
-                <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-                  <li class="nav-item dropdown">
-                    <a class="nav-link text-dark dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                      data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      <img src="assets/img/user-1.png" class="img-fluid rounded-circle avatar mr-2"
-                      alt="https://generated.photos/" />
-                    Diego Velázquez
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="#">Mi perfil</a>
-                      <a class="dropdown-item" href="#">Suscripciones</a>
-                      <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="#">Cerrar sesión</a>
-                    </div>
-                  </li>
-                </ul>
+         <!-- Navbar Section -->
+          <nav class="navbar">
+            <div class="navbar__container">
+              <a href="../indexLogIn.php" id="navbar__logo"></i>Ice Pick Lodge</a>
+              <div class="navbar__toggle" id="mobile-menu">
+                <span class="bar"></span> <span class="bar"></span>
+                <span class="bar"></span>
               </div>
+              <ul class="navbar__menu">
+                <li class="navbar__item">
+                  <a href="../NewsLogIn.php" class="navbar__links">News</a>
+                </li>
+                <li class="navbar__item">
+                  <a href="../GamesLogIn.php" class="navbar__links">Games</a>
+                </li>
+                <li class="navbar__item">
+                  <a href="../AboutUsLogIn.php" class="navbar__links">About Us</a>
+                </li>
+                <li class="navbar__btn">
+                  <a href="../../index.php" class="button">Log Out</a>
+                </li>
+                <li class="navbar__btn">
+                  <a href="dashboard.php" class="button">Dashboard</a>
+                </li>
+              </ul>
             </div>
           </nav>
           <!-- Fin Navbar -->
