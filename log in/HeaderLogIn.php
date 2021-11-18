@@ -9,7 +9,7 @@
     <title>Ice Pick Lodge</title>
     <link rel = "icon" href = "../images/Icon.png" type = "image/x-icon">
     <link rel="stylesheet" href="../styles.css" />
-    <link rel="stylesheet" href="../slider.css" />
+
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
