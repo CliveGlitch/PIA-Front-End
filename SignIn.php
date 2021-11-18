@@ -21,11 +21,12 @@
           
         <div class="input_form_container">
         <input type="password" name="pwd" placeholder="Password">
-
+        </div>
+        
         <div class="input_form_container">
         <input type="password" name="pwdrepeat" placeholder="Repear Password">
-          
         </div>
+
         <input type="submit" name="submit" value="Login" class="form_button">
         <p class="form_text">Already have and account? <a class="link" href="LogIn.php">Log In </a></p>
       </div>
