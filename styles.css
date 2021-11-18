@@ -746,7 +746,9 @@ body {
 
 .form_all{
   background-color:#181818;
-  position: absolute;
+  position:absolute;
+  width: 100%;
+  height: 100%;
 }
 
 .form_container{
