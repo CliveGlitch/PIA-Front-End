@@ -5,6 +5,12 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 .navbar {
   background: #131313;
   height: 80px;
@@ -492,7 +498,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: sticky;
+  margin-top: auto;
   bottom: 0;
   width: 100%;
 }
