@@ -747,7 +747,7 @@ body {
 .form_all{
   background-image: url('images/Art Log In.jpg');
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   height: fit-content;
   background-attachment: fixed;
 }
