@@ -748,6 +748,7 @@ body {
   background-color:#181818;
   position:absolute;
   width: 100%;
+  height: max-content;
 }
 
 .form_container{
