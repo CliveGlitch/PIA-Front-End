@@ -37,13 +37,9 @@
 </head>
 
 <body>
-    <div class="d-flex" id="content-wrapper">
-
-        <div class="w-100">
-
-         <!-- Navbar -->
+  <!-- Navbar -->
          <!-- Navbar Section -->
-          <nav class="navbar">
+         <nav class="navbar">
             <div class="navbar__container">
               <a href="../indexLogIn.php" id="navbar__logo"></i>Ice Pick Lodge</a>
               <div class="navbar__toggle" id="mobile-menu">
@@ -70,6 +66,9 @@
             </div>
           </nav>
           <!-- Fin Navbar -->
+    <div class="d-flex" id="content-wrapper">
+
+        <div class="w-100">
 
         <!-- Page Content -->
         <div id="content" class="bg-grey w-100">
