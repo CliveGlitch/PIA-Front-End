@@ -9,6 +9,6 @@ if (isset($_POST["submit"])){
     exit();
 
 } else {
-    header("location: ../LogIn.php");
+    header("location: ../index.php");
     exit();
 }
