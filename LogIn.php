@@ -1,26 +1,25 @@
 <?php
   include_once 'Header.php'
 ?>
-<div class="log_in_form">
-  <form class="form">
+<section class="log_in_form">
+  <form class="form" action="login.inc.php" method="post">
       
       <h1 class="form_title">Log In</h1>
       <div class="form_container">
           
           <div class="input_form_container">
-          <input type="text" placeholder="Email">
-          
+          <input type="text" name="name" placeholder="Username or Email"> 
           </div>
           
           <div class="input_form_container">
-          <input type="password" placeholder="Password">
-          
+          <input type="password" name="pwd" placeholder="Password">
           </div>
+
           <input type="submit" value="Login" class="form_button">
-          <p class="form_text">Don't have an account? <a class="link" href="SignIn.php">Sign up </a></p>
+          <p class="form_text">Don't have an account? hahahaha <a class="link" href="SignIn.php">Sign up </a></p>
       </div>
   </form>
-</div>
+</section>
 <?php
   include_once 'Footer.php'
 ?>

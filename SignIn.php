@@ -2,7 +2,7 @@
   include_once 'Header.php'
 ?>
 <section class="sign_in_form">
-  <form class="form" action="sign.inc.php" method="post">
+  <form class="form" action="signup.inc.php" method="post">
       
       <h1 class="form_title">Sign Up</h1>
       <div class="form_container">
@@ -22,7 +22,7 @@
         <div class="input_form_container">
         <input type="password" name="pwd" placeholder="Password">
         </div>
-        
+
         <div class="input_form_container">
         <input type="password" name="pwdrepeat" placeholder="Repear Password">
         </div>
