@@ -24,7 +24,7 @@
     <!-- Navbar Section -->
     <nav class="navbar">
       <div class="navbar__container">
-        <a href="Index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
+        <a href="index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
         <div class="navbar__toggle" id="mobile-menu">
           <span class="bar"></span> <span class="bar"></span>
           <span class="bar"></span>
