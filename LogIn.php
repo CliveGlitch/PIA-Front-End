@@ -8,7 +8,7 @@
       <div class="form_container">
           
           <div class="input_form_container">
-          <input type="text" placeholder="Correo Electronico">
+          <input type="text" placeholder="Email">
           
           </div>
           
@@ -17,7 +17,7 @@
           
           </div>
           <input type="submit" value="Login" class="form_button">
-          <p class="form_text">Don't have an account? <a class="link" href="SignIn.php">Sign in </a></p>
+          <p class="form_text">Don't have an account? <a class="link" href="SignIn.php">Sign up </a></p>
       </div>
   </form>
 </div>

@@ -8,11 +8,11 @@
       <div class="form_container">
 
         <div class="input_form_container">
-        <input type="text" placeholder="Nombre Completo">
+        <input type="text" placeholder="Name">
         </div>
           
         <div class="input_form_container">
-        <input type="text" placeholder="Correo Electronico"> 
+        <input type="text" placeholder="Email"> 
         </div>
           
         <div class="input_form_container">
