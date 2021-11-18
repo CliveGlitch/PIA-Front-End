@@ -8,8 +8,8 @@ if (isset($_POST["submit"])){
     $pwd = $_POST["pwd"];
     $pwdrepeat = $_POST["pwdrepeat"];
 
-    header("location: ../index.php")
-
+    header("location: ../index.php");
+    exit();
 
 } else {
     header("location: ../SignUp.php");
