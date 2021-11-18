@@ -16,7 +16,7 @@
           </div>
 
           <input type="submit" value="Login" class="form_button">
-          <p class="form_text">Don't have an account? hahahaha <a class="link" href="SignUp.php">Sign up </a></p>
+          <p class="form_text">Don't have an account? <a class="link" href="SignUp.php">Sign up </a></p>
       </div>
   </form>
 </section>
