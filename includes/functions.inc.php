@@ -45,15 +45,8 @@ function pwdMatch($pwd, $pwdrepeat){
 
 function uidExists($conn, $username, $email){
     $sql = "SELECT * FROM users WHERE usersUid = $1 OR usersEmail = $2;";
-    $stmt = pg_prepare($conn, "checkUidEmail", $sql);
-    if(!$stmt){
-        header("location: ../SignUp.php?error=stmtfailed");
-        exit();
-    } 
 
-    pg_execute($conn, "checkUidEmail", array($usernamem, $email));
-
-    $resultData = pg_get_result($conn);
+    $resultData = pg_query($conn, $sql);
     if($row = pg_fetch_assoc($resultData)){
         return $row;
 
@@ -65,16 +58,9 @@ function uidExists($conn, $username, $email){
 }
 
 function createUser($conn, $name, $email, $username, $pwd){
-    $sql = "INSERT INTO users (usersName, usersEmail, usersUid, usersPwd) VALUES ($1, $2, $3, $4);";
-    $stmt = pg_prepare($conn, "signup", $sql);
-    if(!$stmt){
-        header("location: ../SignUp.php?error=stmtfailed");
-        exit();
-    } 
-
-    $hashedPwd = password_hash($pwd, PASSWORD_DEFAULT);
-
-    pg_execute($conn, "signup", array($name, $email, $username, $hashedPwd));
+    $sql = "INSERT INTO users VALUES ($1, $2, $3, $4);";
+    
+    pg_query($conn, $sql);
 
     header("location: ../SignUp.php?error=none");
     exit();
