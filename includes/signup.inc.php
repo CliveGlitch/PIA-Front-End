@@ -6,12 +6,12 @@ if (isset($_POST["submit"])){
     $email = $_POST["email"];
     $username = $_POST["uid"];
     $pwd = $_POST["pwd"];
-    $pwdRepeat = $_POST["pwdrepeat"];
+    $pwdrepeat = $_POST["pwdrepeat"];
 
     require_once 'dbh.inc.php';
     require_once 'functions.inc.php';
 
-    if(emptyInputSignup($name, $email, $username, $pwd, $pwdRepeat) !== false){
+    if(emptyInputSignup($name, $email, $username, $pwd, $pwdrepeat) !== false){
         header("location: ../SignUp.php?error=emptyinput");
         exit();
     }
@@ -26,12 +26,12 @@ if (isset($_POST["submit"])){
         exit();
     }
 
-    if(pwdMatch($pwd, $pwdRepeat) !== false){
+    if(pwdMatch($pwd, $pwdrepeat) !== false){
         header("location: ../SignUp.php?error=pwdnotmatch");
         exit();
     }
 
-    if(uidExists($conn, $username) !== false){
+    if(uidExists($conn, $username, $email) !== false){
         header("location: ../SignUp.php?error=usernametaken");
         exit();
     }
