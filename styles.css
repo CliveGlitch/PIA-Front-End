@@ -749,6 +749,7 @@ body {
   background-position: center center;
   background-size: cover;
   height: fit-content;
+  background-attachment: fixed;
 }
 
 .form_container{
