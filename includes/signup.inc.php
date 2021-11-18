@@ -8,8 +8,7 @@ if (isset($_POST["submit"])){
     $pwd = $_POST["pwd"];
     $pwdrepeat = $_POST["pwdrepeat"];
 
-    require_once 'dbh.inc.php';
-    require_once 'functions.inc.php';
+    
 
 } else {
     header("location: ../SignUp.php");
