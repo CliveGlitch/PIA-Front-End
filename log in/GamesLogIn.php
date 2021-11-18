@@ -80,5 +80,5 @@
     </div>
 
 <?php
-  include_once '../Footer.php'
+  include_once 'FooterLogIn.php'
 ?>
