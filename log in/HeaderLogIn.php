@@ -43,6 +43,9 @@
           <li class="navbar__btn">
             <a href="../index.php" class="button">Log Out</a>
           </li>
+          <li class="navbar__btn">
+            <a href="Dashboard/dashboard.php" class="button">Dashboard</a>
+          </li>
         </ul>
       </div>
     </nav>
