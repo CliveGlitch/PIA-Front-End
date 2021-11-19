@@ -87,7 +87,7 @@
                   </div>
               </section>
 
-              <section class="bg-mix py-3">
+              <section class="bg-grey py-3">
                 <div class="container">
                     <div class="card rounded-0">
                         <div class="card-body">
@@ -225,10 +225,10 @@
                         label: 'New Users',
                         data: [50, 100, 150, 200],
                         backgroundColor: [
-                            '#12C9E5',  
-                            '#12C9E5',
-                            '#12C9E5',
-                            '#111B54'
+                            '#BB5B16',  
+                            '#BB5B16',
+                            '#BB5B16',
+                            '#924813'
                         ],
                         maxBarThickness: 75,
                         maxBarLength: 2
