@@ -47,7 +47,7 @@
                       <a href='Profile.php' class='button'>Profile</a>
                     </li>";
               echo "<li class='navbar__btn'>
-                      <a href='LogOut.php' class='button'>Log Out</a>
+                      <a href='includes/LogOut.inc.php' class='button'>Log Out</a>
                     </li>";
             } else {
               echo "<li class='navbar__btn'>
