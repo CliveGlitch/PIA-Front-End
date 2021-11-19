@@ -47,22 +47,22 @@
       <h1 class="gallery-all-title"> Check out our games! </h1>
       <div class="gallery-all">
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Pathologic 2.png" alt="">
+          <img class="img-gallery" src="images/S - Pathologic 2.png" alt="" href="Games.php">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Know by Heart.png" alt="">
+          <img class="img-gallery" src="images/S - Know by Heart.png" alt="" href="Know by heart.php">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Cargo.png" alt="">
+          <img class="img-gallery" src="images/S - Cargo.png" alt="" href="Cargo.php">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Knock Knock.png" alt="">
+          <img class="img-gallery" src="images/S - Knock Knock.png" alt="" href="Knock Knock.php">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - Pathologic.png" alt="">
+          <img class="img-gallery" src="images/S - Pathologic.png" alt="" href="Pathologic.php">
         </div>
         <div class="gallery">
-          <img class="img-gallery" src="images/S - The Void.png" alt="">
+          <img class="img-gallery" src="images/S - The Void.png" alt="" href="The Void.php">
         </div>
       </div>
     </div>
