@@ -29,11 +29,12 @@
             <img class="gallery-mini-img" src="images/P2 3.jpg">
           </div>
         </div>
+        <li class='buy__btn'>
+          <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
+        </li>
       </div>
 
-      <li class='buy__btn'>
-        <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
-      </li>
+      
 
       <!-- Services Section -->
       <div class="gallery-container">
