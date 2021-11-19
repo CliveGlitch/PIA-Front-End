@@ -4,6 +4,7 @@
   <div class="about-us-all">
     <img class="about-us-img" src="images/Pathologic2.jpg">
     <div class="about-us-container">
+      <br>
       <li class='buy__btn'>
         <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
       </li>
