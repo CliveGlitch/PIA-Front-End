@@ -830,9 +830,8 @@ input[type="password"]{
 
 
 .gallery-mini {
-  margin: 5px;
   float: left;
-  width: auto;
+  width: 25%;
 }
 
 
