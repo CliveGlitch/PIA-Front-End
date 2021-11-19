@@ -18,6 +18,15 @@
           <input type="submit" value="Log In" class="form_button">
           <p class="form_text">Don't have an account? <a class="link" href="SignUp.php">Sign up </a></p>
       </div>
+      <?php
+  if(isset($_GET["error"])){
+    if($_GET["error"] == "emptyinput"){
+      echo "<p class='form_text'>You must fill all fields.</p>";
+    } else if($_GET["error"] == "wronglogin"){
+      echo "<p class='form_text'>Incorrect fields</p>";
+    } 
+  }
+?>
   </form>
 </section>
 <?php
