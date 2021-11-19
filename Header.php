@@ -11,6 +11,7 @@
     <link rel = "icon" href = "images/Icon.png" type = "image/x-icon">
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="slider.css" />
+    <link rel="stylesheet" href="carousel.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
@@ -44,7 +45,7 @@
           <?php
             if(isset($_SESSION["useruid"])){
               echo "<li class='navbar__btn'>
-                      <a href='Profile.php' class='button'>Profile</a>
+                      <a href='Dashboard.php' class='button'>Dashboard</a>
                     </li>";
               echo "<li class='navbar__btn'>
                       <a href='includes/LogOut.inc.php' class='button'>Log Out</a>

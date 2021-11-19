@@ -1,46 +1,37 @@
 <?php
   include_once 'Header.php'
 ?>
-
-    <!-- Slider Section -->
-    <div class="slider">
-      <!-- fade css -->
-      <div class="myslide fade">
-        <div class="txt">
-          <h1>Pathologic 2 is now available in Xbox Game Pass! </h1>
-          <p>Try the game now if you have Xbox Game pass</p>
-        </div>
-        <img src="images/Game pass.jpg" style="width: 100%; height: 100%;">
+    <div id="header-carousel" class="carousel slide-carousel" data-ride="header-carousel-ride">
+    <div class="carousel-inner">
+      <div class="item-carousel" style="background-image: url('images/S - Pathologic 2.png');">
+        <div class="title-carousel">Need for Speed</div>
+        <div class="text-carousel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt purus eget justo dignissim euismod. Donec non quam commodo, consequat orci nec...</div>
+        <div class="more-carousel">Read More</div>
       </div>
-      
-      <div class="myslide fade">
-        <div class="txt">
-          <h1>New Trailer of Know by heart out!</h1>
-          <p>Check it out!</p>
-        </div>
-        <img src="images/Know by heart.jpg" style="width: 100%; height: 100%;">
+      <div class="item-carousel" style="background-image: url('images/S - Pathologic.png');">
+        <div class="title-carousel">Battle Field</div>
+        <div class="text-carousel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt purus eget justo dignissim euismod. Donec non quam commodo, consequat orci nec...</div>
+        <div class="more-carousel">Read More</div>
       </div>
-      
-      <div class="myslide fade">
-        <div class="txt">
-          <h1>The Marble Nest is Here!</h1>
-          <p>It's a two-hour spinoff story in the world of the Pathologic 2.</p>
-        </div>
-        <img src="images/the marbel nest.jpg" style="width: 100%; height: 100%;">
+      <div class="item-carousel" style="background-image: url('images/S - The Void.png');">
+        <div class="title-carousel">Diablo</div>
+        <div class="text-carousel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt purus eget justo dignissim euismod. Donec non quam commodo, consequat orci nec...</div>
+        <div class="more-carousel">Read More</div>
       </div>
-      <!-- /fade css -->
-      
-      <!-- onclick js -->
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" onclick="plusSlides(1)">&#10095;</a>
-      
-      <div class="dotsbox" style="text-align:center">
-        <span class="dot" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-        <span class="dot" onclick="currentSlide(3)"></span>
+      <div class="item-carousel" style="background-image: url('S - Know by Heart.png');">
+        <div class="title-carousel">Minecraft</div>
+        <div class="text-carousel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt purus eget justo dignissim euismod. Donec non quam commodo, consequat orci nec...</div>
+        <div class="more-carousel">Read More</div>
       </div>
-      <!-- /onclick js -->
     </div>
+    <!-- Controls -->
+    <a class="left carousel-control" href="#header-carousel" role="button" data-slide="prev">
+      <i class="fa fa-chevron-left fa-3x"></i>
+    </a>
+    <a class="right carousel-control" href="#header-carousel" role="button" data-slide="next">
+      <i class="fa fa-chevron-right fa-3x"></i>
+    </a>
+  </div>
 
     <!-- Services Section -->
     <div class="gallery-container">
