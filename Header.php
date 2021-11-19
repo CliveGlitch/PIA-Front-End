@@ -1,9 +1,10 @@
+<?php
+  session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--
-      Site created by Brian Design on youtube @ www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber
-    -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ice Pick Lodge</title>
@@ -40,12 +41,23 @@
           <li class="navbar__item">
             <a href="AboutUs.php" class="navbar__links">About Us</a>
           </li>
-          <li class="navbar__btn">
-            <a href="LogIn.php" class="button">Log In</a>
-          </li>
-          <li class="navbar__btn">
-            <a href="SignUp.php" class="button">Sign Up</a>
-          </li>
+          <?php
+            if(isset($_SESSION["useruid"])){
+              echo "<li class='navbar__btn'>
+                      <a href='Profile.php' class='button'>Profile</a>
+                    </li>"
+              echo "<li class='navbar__btn'>
+                      <a href='LogOut.php' class='button'>Log Out</a>
+                    </li>"
+            } else {
+              echo "<li class='navbar__btn'>
+                      <a href='LogIn.php' class='button'>Log In</a>
+                    </li>"
+              echo "<li class='navbar__btn'>
+                      <a href='SignUp.php' class='button'>Sign Up</a>
+                    </li>"
+            }
+          ?>
         </ul>
       </div>
     </nav>
