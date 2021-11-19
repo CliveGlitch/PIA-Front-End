@@ -10,7 +10,7 @@
       <span><br> - 12 days in an odd town ravaged by a deadly disease.<br> - Time is of the essence: if you don’t manage it carefully, it’ll simply run out. You’ll have to choose how to spend the priceless minutes you have.<br> - Survival thriller. You’ll have to manage your bodily functions, offsetting hunger, thirst, exhaustion, and so on. But it doesn’t boil down to scavenging resources. Surviving on your own is hard; you’ll have to win over allies.<br> - An uphill battle. Managing your bodily parameters may seem bearable at first, but as time goes by, it becomes harder and harder. Your own body is only waiting for an opportunity to give up and betray you.  Things are changing from bad to worse and the odds are stacked against you.<br> - A duel with an enemy you can’t kill. Your main foe is the plague itself, an incorporeal and malevolent entity that you have to defeat… without having the means to. It’s more powerful and more treacherous than you can imagine.<br> - Loot, murder, mug, steal, barter, beg… or don’t. You need resources to survive, but it’s up to you how to obtain them.<br> - The fights are short, ungraceful, and vicious. They don’t have to be lethal though. Many people—yourself included—would prefer to exchange their wallet for their life.</span>
       </div>
 
-      <div class="gallery-mini">
+      <div class="gallery-container">
         <img class="gallery-mini-img" src="images/P2.jpg">
         <img class="gallery-mini-img" src="images/P2 1.png">
         <img class="gallery-mini-img" src="images/P2 2.jpg">
