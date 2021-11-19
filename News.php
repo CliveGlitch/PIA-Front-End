@@ -6,12 +6,14 @@
   <div class="about-us-container">
 
   <div class="card_news">
-    <img src="images/Know by heart news.jpg" class="card_news__image"/>
-    <div class="card_news__content">
-      <span class="card_news__title">New Trailer of Know by heart out!</span>
-      <span class="card_news__text">New Trailer of Know by heart out!<br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<span>
-      <span class="card_news__date">December 31, 2020</span>
-    </div>
+    <a href="KBH Trailer.php">
+      <img src="images/Know by heart news.jpg" class="card_news__image"/>
+      <div class="card_news__content">
+        <span class="card_news__title">New Trailer of Know by heart out!</span>
+        <span class="card_news__text">New Trailer of Know by heart out!<br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<span>
+        <span class="card_news__date">December 31, 2020</span>
+      </div>
+    </a>
   </div>
 
   <div class="card_news">
