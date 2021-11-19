@@ -12,7 +12,7 @@
                       <div class="row">
                           <div class="col-lg-9 col-md-8">
                             <?php
-                                echo "<h1 class='welcome-title'>Welcome $_SESSION["useruid"]</h1>";
+                                echo "<h1 class='welcome-title'>Welcome $_SESSION['useruid']</h1>";
                             ?>
                             <p class="welcome-text">Check the latest report</p>
                           </div>
