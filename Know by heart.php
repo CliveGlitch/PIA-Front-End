@@ -20,7 +20,7 @@
             <img class="gallery-mini-img" src="images/KbH 1.jpg">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/KbH 2.png">
+            <img class="gallery-mini-img" src="images/KbH 2.jpg">
           </div>
           <div class="gallery-mini">
             <img class="gallery-mini-img" src="images/KbH 3.jpg">
