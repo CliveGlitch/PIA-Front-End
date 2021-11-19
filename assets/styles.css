@@ -829,19 +829,14 @@ input[type="password"]{
 
 
 
-div.gallery {
+.gallery-mini {
   margin: 5px;
   float: left;
   width: 180px;
 }
 
 
-div.gallery img {
+.gallery-mini-img {
   width: 100%;
   height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
 }
