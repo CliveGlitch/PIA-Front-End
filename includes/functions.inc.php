@@ -18,7 +18,7 @@ function invalidUid($username){
         $result = false;
     }
 
-    return = $result;
+    return $result;
 }
 
 function invalidEmail($email){
@@ -29,7 +29,7 @@ function invalidEmail($email){
         $result = false;
     }
 
-    return = $result;
+    return $result;
 }
 
 function pwdMatch($pwd, $pwdrepeat){
@@ -40,7 +40,7 @@ function pwdMatch($pwd, $pwdrepeat){
         $result = false;
     }
 
-    return = $result;
+    return $result;
 }
 
 function uidExists($conn, $username, $email){
