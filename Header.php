@@ -31,7 +31,6 @@
     <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/styles.css" />
     <link rel="stylesheet" href="assets/slider.css" />
-    <link rel="stylesheet" href="assets/style_dashboard.css" />
   </head>
   <body>
     <!-- Navbar Section -->
