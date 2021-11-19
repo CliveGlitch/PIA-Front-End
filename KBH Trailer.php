@@ -19,9 +19,11 @@
           <br>Add "Know by heart" to your wishlist at Steam:
           </span>
         </div>
-        <li class='buy__btn'>
-          <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
-        </li>
+        <div class="about-us-container">
+          <li class='buy__btn'>
+            <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
+          </li>
+        </div>
       </div>
       <br>
     </div>
