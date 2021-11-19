@@ -40,32 +40,32 @@
 <body>
   <!-- Navbar -->
          <!-- Navbar Section -->
-         <nav class="navbar">
-            <div class="navbar__container">
-              <a href="../indexLogIn.php" id="navbar__logo"></i>Ice Pick Lodge</a>
-              <div class="navbar__toggle" id="mobile-menu">
-                <span class="bar"></span> <span class="bar"></span>
-                <span class="bar"></span>
+          <nav class="navbar">
+              <div class="navbar__container">
+                <a href="../indexLogIn.php" id="navbar__logo"></i>Ice Pick Lodge</a>
+                <div class="navbar__toggle" id="mobile-menu">
+                  <span class="bar"></span> <span class="bar"></span>
+                  <span class="bar"></span>
+                </div>
+                <ul class="navbar__menu">
+                  <li class="navbar__item">
+                    <a href="../NewsLogIn.php" class="navbar__links">News</a>
+                  </li>
+                  <li class="navbar__item">
+                    <a href="../GamesLogIn.php" class="navbar__links">Games</a>
+                  </li>
+                  <li class="navbar__item">
+                    <a href="../AboutUsLogIn.php" class="navbar__links">About Us</a>
+                  </li>
+                  <li class="navbar__btn">
+                    <a href="../../index.php" class="button">Log Out</a>
+                  </li>
+                  <li class="navbar__btn">
+                    <a href="dashboard.php" class="button">Dashboard</a>
+                  </li>
+                </ul>
               </div>
-              <ul class="navbar__menu">
-                <li class="navbar__item">
-                  <a href="../NewsLogIn.php" class="navbar__links">News</a>
-                </li>
-                <li class="navbar__item">
-                  <a href="../GamesLogIn.php" class="navbar__links">Games</a>
-                </li>
-                <li class="navbar__item">
-                  <a href="../AboutUsLogIn.php" class="navbar__links">About Us</a>
-                </li>
-                <li class="navbar__btn">
-                  <a href="../../index.php" class="button">Log Out</a>
-                </li>
-                <li class="navbar__btn">
-                  <a href="dashboard.php" class="button">Dashboard</a>
-                </li>
-              </ul>
-            </div>
-          </nav>
+            </nav>
       <!-- Fin Navbar -->
     <div class="d-flex" id="content-wrapper">
 
