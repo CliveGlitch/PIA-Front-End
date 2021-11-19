@@ -838,3 +838,31 @@ input[type="password"]{
   width: 100%;
   height: auto;
 }
+
+.gallery-mini-container{
+  background-color:#181818;
+  padding: 5rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery-mini-all{
+  width: fit-content;
+  margin: 20px auto;
+  height: auto;
+  background-color: #131313;
+}
+.gallery-mini{
+  width: calc(50% - 6px);
+  overflow:hidden;
+  height: fit-content;
+  margin:3px;
+  padding: 0;
+  display:block;
+  position:relative;
+  float:left;
+  background-color: #131313;
+  
+}
