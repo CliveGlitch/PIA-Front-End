@@ -58,7 +58,7 @@ body {
 
 .navbar__menu {
   display: flex;
-  
+  align-items: center;
   list-style: none;
   text-align: center;
 }
