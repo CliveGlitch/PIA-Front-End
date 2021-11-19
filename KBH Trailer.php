@@ -12,7 +12,7 @@
           <br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<br>
           </span>
           <a class="link_news" href="https://www.youtube.com/watch?v=PcqI9du-SJc">
-            <img class="new-image-e" src="images/Youtube KBH.jpg">
+            <img class="about-us-img" src="images/Youtube KBH.jpg">
           </a>
           <span><br><br>Know by Heart is a game about accepting loss. Players will be immersed into the quiet life of a provincial Russian town, where traces and echoes of the Soviet era can still be seen and heard.
           <br>A brief but tumultuous episode of the town’s life is interwoven with the story of a gang of childhood friends coming back together. It’s up to them to journey down memory lanes and rekindle their friendship, but their memories of the past and the very bonds between them become threatened...
