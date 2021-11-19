@@ -1,7 +1,8 @@
 :root {
     --primary: #BB5B16;
-    --light: #181818;
-    --grey: #131313;
+    --light: #e7e7e7;
+    --grey: #181818;
+    --dark: #131313;
 }
 
 
@@ -11,9 +12,11 @@ a:hover {
 
 .bg-primary { background-color: var(--primary) !important; }
 
-.bg-light { background-color: var(--light) !important; }
+.bg-light { background-color: white !important; }
 
 .bg-grey { background-color: var(--grey) !important; }
+
+.bg-dark { background-color: var(--dark) !important; }
 
 .bg-mix { background: linear-gradient(180deg, var(--light) 50%, var(--grey) 0); }
 
