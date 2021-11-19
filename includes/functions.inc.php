@@ -7,7 +7,7 @@ function emptyInputSignup($name, $email, $username, $pwd, $pwdrepeat){
         $result = false;
     }
 
-    return = $result;
+    return $result;
 }
 
 function invalidUid($username){
