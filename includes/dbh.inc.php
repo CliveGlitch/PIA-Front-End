@@ -7,7 +7,7 @@ $dbhost = 'bdbktl0j0v93z1z3hwdd-mysql.services.clever-cloud.com';
 $dbname = 'bdbktl0j0v93z1z3hwdd';
 $dbport = '3306'
 
-$conn = $bdd = new PDO(
+$conn = new PDO(
     "mysql:host=" . getenv($dbhost) . ";dbname=" . getenv($dbname),
     getenv($dbuser),
     getenv($db)
