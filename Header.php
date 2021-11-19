@@ -11,6 +11,7 @@
     <link rel = "icon" href = "images/Icon.png" type = "image/x-icon">
     <link rel="stylesheet" href="assets/styles.css" />
     <link rel="stylesheet" href="assets/slider.css" />
+    <link rel="stylesheet" href="assets/news_style.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
