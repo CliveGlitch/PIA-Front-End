@@ -69,3 +69,14 @@ a:hover {
     }
   }
   
+.welcome-title{
+    color: var(--primary);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+}
+
+.welcome-text{
+    color: var(--light);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}

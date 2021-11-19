@@ -73,12 +73,12 @@
         <!-- Page Content -->
         <div id="content" class="bg-grey w-100">
 
-              <section class="bg-light py-3">
+              <section class="bg-grey py-3">
                   <div class="container">
                       <div class="row">
                           <div class="col-lg-9 col-md-8">
-                            <h1 class="font-weight-bold mb-0">Welcome Admin</h1>
-                            <p class="lead text-muted">Check the latest report</p>
+                            <h1 class="welcome-title">Welcome Admin</h1>
+                            <p class="welcome-text">Check the latest report</p>
                           </div>
                           <div class="col-lg-3 col-md-4 d-flex">
                             <button class="btn btn-primary w-100 align-self-center">Download Report</button>
@@ -94,8 +94,8 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-6 d-flex stat my-3">
                                     <div class="mx-auto">
-                                        <h6 class="text-muted">Game Revenue (Steam)</h6>
-                                        <h3 class="font-weight-bold">$</h3>
+                                        <h6 class="text-muted">Game Revenue</h6>
+                                        <h3 class="font-weight-bold">$750000</h3>
                                         <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 50.50%</h6>
                                     </div>
                                 </div>
