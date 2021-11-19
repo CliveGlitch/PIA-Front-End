@@ -45,17 +45,17 @@
             if(isset($_SESSION["useruid"])){
               echo "<li class='navbar__btn'>
                       <a href='Profile.php' class='button'>Profile</a>
-                    </li>"
+                    </li>";
               echo "<li class='navbar__btn'>
                       <a href='LogOut.php' class='button'>Log Out</a>
-                    </li>"
+                    </li>";
             } else {
               echo "<li class='navbar__btn'>
                       <a href='LogIn.php' class='button'>Log In</a>
-                    </li>"
+                    </li>";
               echo "<li class='navbar__btn'>
                       <a href='SignUp.php' class='button'>Sign Up</a>
-                    </li>"
+                    </li>";
             }
           ?>
         </ul>
