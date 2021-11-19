@@ -867,11 +867,36 @@ input[type="password"]{
   
 }
 
+.buy__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1rem;
+  width: 75%;
+}
+
 .buy_button {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
-  height: 5%;
-  margin: 0;
+  text-decoration: none;
+  padding: 10px 20px;
+  height: 100%;
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background: #BB5B16;
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.buy_button:hover {
+  background: #ff8834;
+  transition: all 0.3s ease;
+}
+
+.navbar__links:hover {
+  color: #BB5B16;
+  transition: all 0.3s ease;
 }

@@ -4,7 +4,7 @@
   <div class="about-us-all">
     <img class="about-us-img" src="images/Pathologic2.jpg">
     <div class="about-us-container">
-      <li class='navbar__btn'>
+      <li class='buy__btn'>
         <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
       </li>
       <div class="about-us-text">
@@ -30,7 +30,7 @@
         </div>
       </div>
 
-      <li class='navbar__btn'>
+      <li class='buy__btn'>
         <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
       </li>
 
