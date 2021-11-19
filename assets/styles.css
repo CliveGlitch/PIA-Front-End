@@ -167,7 +167,7 @@ body {
     text-align: center;
     padding: 2rem;
     width: 100%;
-    display: table;
+    display: inline-block;
   }
 
   .navbar__btn {
