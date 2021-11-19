@@ -30,8 +30,7 @@
         <input type="submit" name="submit" value="Sign Up" class="form_button">
         <p class="form_text">Already have and account? <a class="link" href="LogIn.php">Log In </a></p>
       </div>
-  </form>
-  <?php
+      <?php
   if(isset($_GET["error"])){
     if($_GET["error"] == "emptyinput"){
       echo "<p class='form_text'>You must fill all fields.</p>";
@@ -50,6 +49,8 @@
     }
   }
 ?>
+  </form>
+  
 </section>
 
 <?php
