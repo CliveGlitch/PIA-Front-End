@@ -22,8 +22,6 @@
         <li class='buy__btn'>
           <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
         </li>
-        <div>
-        </div>
       </div>
     </div>
     
