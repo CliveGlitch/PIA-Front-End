@@ -866,3 +866,12 @@ input[type="password"]{
   background-color: #131313;
   
 }
+
+.buy_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 5%;
+  margin: 0;
+}
