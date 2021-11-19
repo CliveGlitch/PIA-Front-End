@@ -7,7 +7,12 @@ $dbhost = 'bdbktl0j0v93z1z3hwdd-mysql.services.clever-cloud.com';
 $dbname = 'bdbktl0j0v93z1z3hwdd';
 $dbport = '3306'
 
-$conn = new PDO("mysql:host=$dbhost;port=$dbport;dbname=$dbname", $dbuser, $dbpass);
+$conn = $bdd = new PDO(
+    "mysql:host=" . getenv($dbhost) .";port=" . getenv($dbport) . ";dbname=" . getenv($dbname),
+    getenv($dbuser),
+    getenv($db)
+);
+
 }catch (PDOException $e) {
     echo "Error : " . $e->getMessage() . "<br/>";
     die();
