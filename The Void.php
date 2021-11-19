@@ -2,35 +2,35 @@
   include_once 'Header.php'
 ?>
   <div class="about-us-all">
-    <img class="about-us-img" src="images/Pathologic.jpg">
+    <img class="about-us-img" src="images/The Void.jpg">
     <div class="about-us-container">
       <br>
       <li class='buy__btn'>
-        <a href='https://store.steampowered.com/app/384110/Pathologic_Classic_HD/' class='buy_button'>Buy on Steam!</a>
+        <a href='https://store.steampowered.com/app/37000/The_Void/' class='buy_button'>Buy on Steam!</a>
       </li>
       <div class="about-us-text">
-      <span>A cult classic given new life, Pathologic Classic HD follows the fate of a small town devastated by a deadly plague of unknown origin. Each of the dozens of named characters has their own idea as to the nature of the beast, but only three of them—the Bachelor, the Haruspex, and the Changeling—are imbued with the player’s will and can change the outcome… with their ideas of the best solution being mutually exclusive. The player endeavours to survive in a dying town, trying to juggle stats and resources, explore the world, get to know its characters and save as many lives as possible. Conceived as an “ethical simulator”, Pathologic Classic HD never shies away from putting them in an uneasy situation.</span>
+      <span>When a person’s soul is extinguished, for a brief flickering moment it passes The Void—a grey limbo, breathed back to life by scarce droplets of Color scattered across it. Ravenous, monstrous Brothers beckon the soul to preserve every bit of it; enticing, sly Sisters beg to be fed. The whole Void, inhabited also by a multitude of weird and sometimes scary creatures, changes with every droplet of Color used, making every action you take have repercussions across the whole world.<br><br>But perhaps there is another way to use the Color. The way to break out of the never-ending cycle of the Void. Nourishing Color in gardens and fighting the Void’s creatures, unlocking the Sisters’ hearts and taking on their Brothers, the player gets the chance to find it… and achieve ultimate transcendence.</span>
       <span class="gallery-all-title"><br><br>Features:</span>
-      <span><br><br> - An indie cult classic.<br> - 12 days in a plague-ridden town. Time is running, and mostly it’s running out; numerous events unfold, whether you’re there to witness them or not.<br> - 70+ hours of real-time gameplay without grinding or repetitive quests. As time goes by, more and more things happen, inviting you to participate and change the course of events.<br> - 3 playable characters with 3 unique storylines. The Bachelor’s, the Haruspex’s, and the Changeling’s plots are interconnected, but every side of the trilemma is represented separately via unique events, quests, dialogues, and subplots.<br> - The plot is critically acclaimed and often regarded as the high point of the game. It’s not just about the fate of the dying town—it’s about an ideological conflict, represented by a multitude of characters and factions, each with their own idea of what life, death, and miracles are.<br> - An open-world game. While the plot is there to grab you, the town has no artificial boundaries: you are free to explore it from day one, carving out your own story.<br> - Survival is tough. The dying town demands that you constantly keep an eye on your status, maintaining a full belly and decent immunity. That will require tough choices.<br> - Communicate, barter, rob, or steal. There are many ways to acquire your bare necessities, each of them with its own benefits and drawbacks.<br>The atmosphere of bleakness and despair without cartoonish evil or bad guys. Playtime is over—there will be no jump scares or simple solutions. You will have to do it the hard way.</span>
+      <span><br><br> - Gaze long into the Void and feel it gaze into you. The only resource in the game, Color changes both you and the world around you with every droplet used. Accumulating Red inside your heart can make you strong, but it also makes predators more aggressive; find the perfect balance or just watch the world react to every choice of yours.<br> - Explore the Void. Broken into 29 separate chambers, the place you have fallen into is full of secrets, twists, and turns.<br> - Nourish, hunt, mine. Each type of environment offers its own features: grow Color in some, hunt for it or mine it in others, unlocking new chambers through the Sisters.<br> - Draw your soul. All important actions in the game are executed through drawing on the screen, the effect depending both on the sigil drawn and the color used.<br> - Get to know the Sisters. Each of them representing a combination of two Colors, each of them alluring and greedy, the Sisters are willing to spill their hearts out—if you fill them with Color first.<br> - Obey… or disobey. Seeing you as one of their own, the grotesque Brothers are willing to share their wisdom—as long as you obey. And if you don’t, be prepared for hard fights with intimidating gigantic foes.<br> - Listen to the Voice of Color and find your true purpose.</span>
       </div>
 
       <div class="gallery-mini-container">
         <div class="gallery-mini-all">
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P 4.jpg">
+            <img class="gallery-mini-img" src="images/TV 4.jpg">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P 1.jpg">
+            <img class="gallery-mini-img" src="images/TV 1.jpg">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P 2.jpg">
+            <img class="gallery-mini-img" src="images/TV 2.jpg">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P 3.jpg">
+            <img class="gallery-mini-img" src="images/TV 3.jpg">
           </div>
         </div>
         <li class='buy__btn'>
-          <a href='https://store.steampowered.com/app/384110/Pathologic_Classic_HD/' class='buy_button'>Buy on Steam!</a>
+          <a href='https://store.steampowered.com/app/37000/The_Void/' class='buy_button'>Buy on Steam!</a>
         </li>
       </div>
 

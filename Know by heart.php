@@ -2,35 +2,35 @@
   include_once 'Header.php'
 ?>
   <div class="about-us-all">
-    <img class="about-us-img" src="images/Pathologic2.jpg">
+    <img class="about-us-img" src="images/Know by heart.jpg">
     <div class="about-us-container">
       <br>
       <li class='buy__btn'>
-        <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
+        <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Buy on Steam!</a>
       </li>
       <div class="about-us-text">
-      <span>Pathologic 2 is an open world survival thriller set in a town that’s being consumed by a deadly plague. Face the realities of a collapsing society as you make difficult choices in seemingly lose-lose situations. The plague isn’t just a disease. You can’t save everyone.<br><br>Get to know it, winning the affection of the locals and gaining allies, or try to carve your own path alone. Explore the Town, its inhabitants, and their traditions; fight both the plague itself and its victims; try to make a difference before the time runs out.<br><br>Figure out who killed your father while fighting a deadly plague. It’s up to you to assume his mantle of the town’s Chief Medic.<br><br>Find your alleged twin sister. Was she the one who had brought the plague to this town?<br>The local kids are hiding something. Try playing by their rules.<br><br>You only have 12 days.</span>
+      <span>“Know by heart...” is a game about accepting loss. The plot, the music, the intuitive gameplay and atmospheric mini-games work together to weave an illusion of briefly returning to one’s childhood and inevitably growing up, the feeling of time slipping through our fingers.<br><br>Players will be immersed into the quiet life of a provincial Russian town, where traces and echoes of the Soviet era can still be seen and heard.<br><br>Misha, the protagonist, is stuck in his monotonous, dead-end job, until one day the routine is shattered as his school crush returns to town. For the first time in years Misha regains hope of escaping the ennui of his daily life. A brief but tumultuous episode of the town’s life is interwoven with the story of a gang of childhood friends coming back together. It’s up to them to journey down memory lanes and rekindle their friendship, but their memories of the past and the very bonds between them become threatened...</span>
       <span class="gallery-all-title"><br><br>Features:</span>
-      <span><br><br> - 12 days in an odd town ravaged by a deadly disease.<br> - Time is of the essence: if you don’t manage it carefully, it’ll simply run out. You’ll have to choose how to spend the priceless minutes you have.<br> - Survival thriller. You’ll have to manage your bodily functions, offsetting hunger, thirst, exhaustion, and so on. But it doesn’t boil down to scavenging resources. Surviving on your own is hard; you’ll have to win over allies.<br> - An uphill battle. Managing your bodily parameters may seem bearable at first, but as time goes by, it becomes harder and harder. Your own body is only waiting for an opportunity to give up and betray you.  Things are changing from bad to worse and the odds are stacked against you.<br> - A duel with an enemy you can’t kill. Your main foe is the plague itself, an incorporeal and malevolent entity that you have to defeat… without having the means to. It’s more powerful and more treacherous than you can imagine.<br> - Loot, murder, mug, steal, barter, beg… or don’t. You need resources to survive, but it’s up to you how to obtain them.<br> - The fights are short, ungraceful, and vicious. They don’t have to be lethal though. Many people—yourself included—would prefer to exchange their wallet for their life.</span>
+      <span><br><br> - Around 5 hours of sentimental adventure<br> - The atmosphere of a post-Soviet provincial town at the turn of the century<br> - An emotional plot with non-linear elements and several endings<br> - Game mechanics representing thoughts and memories of the protagonist<br> - A collection of evocative mini-games<br> - Piano soundtrack composed in modern neoclassical style</span>
       </div>
 
       <div class="gallery-mini-container">
         <div class="gallery-mini-all">
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P2.jpg">
+            <img class="gallery-mini-img" src="images/KbH 1.jpg">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P2 1.png">
+            <img class="gallery-mini-img" src="images/KbH 2.png">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P2 2.jpg">
+            <img class="gallery-mini-img" src="images/KbH 3.jpg">
           </div>
           <div class="gallery-mini">
-            <img class="gallery-mini-img" src="images/P2 3.jpg">
+            <img class="gallery-mini-img" src="images/KbH 4.jpg">
           </div>
         </div>
         <li class='buy__btn'>
-          <a href='https://store.steampowered.com/app/505230/Pathologic_2/' class='buy_button'>Buy on Steam!</a>
+          <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Buy on Steam!</a>
         </li>
       </div>
 
