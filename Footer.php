@@ -53,6 +53,5 @@
     </div>
     <script src="app.js"></script>
     <script src="jsfile.js"></script>
-    <script src="carousel.js"></script>
   </body>
 </html>
