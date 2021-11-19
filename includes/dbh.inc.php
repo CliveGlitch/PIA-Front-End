@@ -10,9 +10,8 @@ try {
     $MYSQL_ADDON_VERSION="8.0"
 
 $conn = $bdd = new PDO(
-    "mysql:host=" . getenv($MYSQL_ADDON_HOST) . ";dbname=" . getenv($MYSQL_ADDON_DB),
-    getenv($MYSQL_ADDON_USER),
-    getenv($MYSQL_ADDON_PASSWORD)
+    "mysql:host=$MYSQL_ADDON_HOST;dbname=$MYSQL_ADDON_DB,
+    $MYSQL_ADDON_USER, $MYSQL_ADDON_PASSWORD"
 );
 
 }catch (PDOException $e) {
