@@ -9,7 +9,7 @@
       <div class="about-us-container">
         <div class="about-us-text">
           <span>New Trailer of Know by heart out!
-          <br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)
+          <br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<br>
           </span>
           <a class="link_news" href="https://www.youtube.com/watch?v=PcqI9du-SJc">
             <img class="about-us-img" src="images/Youtube KBH.jpg">
@@ -23,6 +23,7 @@
           <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
         </li>
       </div>
+      <br>
     </div>
     
 <?php
