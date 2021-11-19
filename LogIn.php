@@ -23,7 +23,7 @@
     if($_GET["error"] == "emptyinput"){
       echo "<p class='form_text'>You must fill all fields.</p>";
     } else if($_GET["error"] == "wronglogin"){
-      echo "<p class='form_text'>Incorrect fields</p>";
+      echo "<p class='form_text'>Incorrect fields.</p>";
     } 
   }
 ?>
