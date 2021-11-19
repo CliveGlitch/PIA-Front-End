@@ -51,7 +51,7 @@
         </div>
       </section>
     </div>
-    <script src="app.js"></script>
-    <script src="jsfile.js"></script>
+    <script src="assets/app.js"></script>
+    <script src="assets/jsfile.js"></script>
   </body>
 </html>
