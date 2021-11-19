@@ -31,7 +31,6 @@
         <a href="index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
         <div class="navbar__toggle" id="mobile-menu">
           <span class="bar"></span> <span class="bar"></span>
-          <span class="bar"></span>
         </div>
         <ul class="navbar__menu">
           <li class="navbar__item">
