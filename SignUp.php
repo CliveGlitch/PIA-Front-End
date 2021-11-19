@@ -34,19 +34,19 @@
   <?php
   if(isset($_GET["error"])){
     if($_GET["error"] == "emptyinput"){
-      echo "<p class='form_text'>You must fill all fields.</p>"
+      echo "<p class='form_text'>You must fill all fields.</p>";
     } else if($_GET["error"] = "invaliduid"){
-      echo "<p class='form_text'>Choose a proper username.</p>"
+      echo "<p class='form_text'>Choose a proper username.</p>";
     } else if($_GET["error"] = "invalidemail") {
-      echo "<p class='form_text'>Choose a proper email.</p>"
+      echo "<p class='form_text'>Choose a proper email.</p>";
     } else if($_GET["error"] = "pwdnotmatch") {
-      echo "<p class='form_text'>Passwords don't match.</p>"
+      echo "<p class='form_text'>Passwords don't match.</p>";
     } else if($_GET["error"] = "stmtfailed") {
-      echo "<p class='form_text'>Something went wrong, try again.</p>"
+      echo "<p class='form_text'>Something went wrong, try again.</p>";
     } else if($_GET["error"] = "usernametaken") {
-      echo "<p class='form_text'>Username already in use.</p>"
+      echo "<p class='form_text'>Username already in use.</p>";
     } else if($_GET["error"] = "none") {
-      echo "<p class='form_text'>You have signed up</p>"
+      echo "<p class='form_text'>You have signed up</p>";
     }
   }
 ?>
