@@ -6,7 +6,7 @@
     <div class="about-us-container">
       <br>
       <li class='buy__btn'>
-        <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Buy on Steam!</a>
+        <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
       </li>
       <div class="about-us-text">
       <span>“Know by heart...” is a game about accepting loss. The plot, the music, the intuitive gameplay and atmospheric mini-games work together to weave an illusion of briefly returning to one’s childhood and inevitably growing up, the feeling of time slipping through our fingers.<br><br>Players will be immersed into the quiet life of a provincial Russian town, where traces and echoes of the Soviet era can still be seen and heard.<br><br>Misha, the protagonist, is stuck in his monotonous, dead-end job, until one day the routine is shattered as his school crush returns to town. For the first time in years Misha regains hope of escaping the ennui of his daily life. A brief but tumultuous episode of the town’s life is interwoven with the story of a gang of childhood friends coming back together. It’s up to them to journey down memory lanes and rekindle their friendship, but their memories of the past and the very bonds between them become threatened...</span>
@@ -30,7 +30,7 @@
           </div>
         </div>
         <li class='buy__btn'>
-          <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Buy on Steam!</a>
+          <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
         </li>
       </div>
 

@@ -6,7 +6,7 @@
   <div class="about-us-container">
 
   <div class="card_news">
-    <a href="KBH Trailer.php">
+    <a class="link_news" href="KBH Trailer.php">
       <img src="images/Know by heart news.jpg" class="card_news__image"/>
       <div class="card_news__content">
         <span class="card_news__title">New Trailer of Know by heart out!</span>
