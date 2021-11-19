@@ -34,17 +34,17 @@
   if(isset($_GET["error"])){
     if($_GET["error"] == "emptyinput"){
       echo "<p class='form_text'>You must fill all fields.</p>";
-    } else if($_GET["error"] = "invaliduid"){
+    } else if($_GET["error"] == "invaliduid"){
       echo "<p class='form_text'>Choose a proper username.</p>";
-    } else if($_GET["error"] = "invalidemail") {
+    } else if($_GET["error"] == "invalidemail") {
       echo "<p class='form_text'>Choose a proper email.</p>";
-    } else if($_GET["error"] = "pwdnotmatch") {
+    } else if($_GET["error"] == "pwdnotmatch") {
       echo "<p class='form_text'>Passwords don't match.</p>";
-    } else if($_GET["error"] = "stmtfailed") {
+    } else if($_GET["error"] == "stmtfailed") {
       echo "<p class='form_text'>Something went wrong, try again.</p>";
-    } else if($_GET["error"] = "usernametaken") {
+    } else if($_GET["error"] == "usernametaken") {
       echo "<p class='form_text'>Username already in use.</p>";
-    } else if($_GET["error"] = "none") {
+    } else if($_GET["error"] == "none") {
       echo "<p class='form_text'>You have signed up</p>";
     }
   }
