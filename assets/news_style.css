@@ -50,10 +50,10 @@
     }
   }
   
-  .card_news__date {
+  .card_news__title {
     display: block;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 32px;
+    font-size: 27px;
     text-transform: uppercase;
     color: #BB5B16;
     margin-bottom: 6px;
@@ -63,7 +63,7 @@
     }
   }
   
-  .card_news__title {
+  .card_news__text {
     color: #fff;;
     font-family:'Times New Roman', Times, serif;
     font-size: 18px;
@@ -76,7 +76,16 @@
     margin-left: -4px;
   }
 
-  .column {
-    float: left;
-    width: 50%;
+  .card_news__date {
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #BB5B16;
+    margin-bottom: 6px;
+    
+    @include mediaBig {
+      margin-bottom: 8px;
+    }
   }
+  
