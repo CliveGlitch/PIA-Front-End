@@ -3,7 +3,7 @@
 ?>
     
 		<div class="about-us-all">
-      <img class="about-us-img" src="images/Know by heart news.jpg">
+      <img class="news-images-form" src="images/Know by heart news.jpg">
       <div class="about-us-container">
         <div class="about-us-text">
           <h1 class="about-us-title"> New Trailer of Know by heart out! </h1>

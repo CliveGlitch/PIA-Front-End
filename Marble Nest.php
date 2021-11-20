@@ -3,7 +3,7 @@
 ?>
 
   <div class="about-us-all">
-      <img class="about-us-img" src="images/the marbel nest.jpg">
+      <img class="news-images-form" src="images/the marbel nest.jpg">
       <div class="about-us-container">
         <div class="about-us-text">
           <h1 class="about-us-title"> The Marble Nest is Here! </h1>

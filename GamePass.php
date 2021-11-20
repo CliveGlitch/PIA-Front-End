@@ -2,7 +2,7 @@
   include_once 'Header.php'
 ?>
   <div class="about-us-all">
-      <img class="about-us-img" src="images/Game pass.jpg">
+      <img class="news-images-form" src="images/Game pass.jpg">
       <div class="about-us-container">
         <div class="about-us-text">
           <h1 class="about-us-title"> Pathologic 2 available in Game Pass! </h1>

@@ -908,3 +908,10 @@ input[type="password"]{
   color: #BB5B16;
   transition: all 0.3s ease;
 }
+
+.news-images-form{
+  width: 100%;
+  max-height: 45%;
+  justify-content: center;
+  align-items: center;
+}
