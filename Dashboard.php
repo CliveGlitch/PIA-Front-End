@@ -8,6 +8,8 @@
 
   $num_users = $resultCheck['total'];
 
+  $query = "SELECT usersName, usersEmail, usersUid FROM users";
+  $result = mysqli_query($conn, $query);
 ?>
 
 <!DOCTYPE html>
@@ -213,6 +215,30 @@
                       </div>
                   </div>
               </section>
+<table  cellspacing="0" cellpadding="10">
+  <tr>
+    <th>Full Name</th>
+    <th>Email</th>
+    <th>Username</th>
+  </tr>
+<?php
+if (mysqli_num_rows($result) > 0) {
+  $sn=1;
+  while($data = mysqli_fetch_assoc($result)) {
+ ?>
+ <tr>
+   <td><?php echo $sn; ?> </td>
+   <td><?php echo $data['usersName']; ?> </td>
+   <td><?php echo $data['usersEmail']; ?> </td>
+   <td><?php echo $data['usersUid']; ?> </td>
+ <tr>
+ <?php
+  $sn++;}} else { ?>
+    <tr>
+     <td colspan="8">No data found</td>
+    </tr>
+ <?php } ?>
+  </table>
 
         </div>
 
