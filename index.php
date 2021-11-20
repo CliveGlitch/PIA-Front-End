@@ -6,27 +6,33 @@
     <div class="slider">
       <!-- fade css -->
       <div class="myslide fade">
-        <div class="txt">
-          <h1>Pathologic 2 is now available in Xbox Game Pass! </h1>
-          <p>Try the game now if you have Xbox Game pass</p>
-        </div>
-        <img src="images/Game pass.jpg" style="width: 100%; height: 100%;">
+        <a href="GamePass.php">
+          <div class="txt">
+            <h1>Pathologic 2 is now available in Xbox Game Pass! </h1>
+            <p>Try the game now if you have Xbox Game pass</p>
+          </div>
+          <img src="images/Game pass.jpg" style="width: 100%; height: 100%;">
+        </a>
       </div>
       
       <div class="myslide fade">
-        <div class="txt">
-          <h1>New Trailer of Know by heart out!</h1>
-          <p>Check it out!</p>
-        </div>
-        <img src="images/Know by heart.jpg" style="width: 100%; height: 100%;">
+        <a href="KBH Trailer.php">
+          <div class="txt">
+            <h1>New Trailer of Know by heart out!</h1>
+            <p>Check it out!</p>
+          </div>
+          <img src="images/Know by heart.jpg" style="width: 100%; height: 100%;">
+        </a>
       </div>
       
       <div class="myslide fade">
-        <div class="txt">
-          <h1>The Marble Nest is Here!</h1>
-          <p>It's a two-hour spinoff story in the world of the Pathologic 2.</p>
-        </div>
-        <img src="images/the marbel nest.jpg" style="width: 100%; height: 100%;">
+        <a href="Marble Nest.php">
+          <div class="txt">
+            <h1>The Marble Nest is Here!</h1>
+            <p>It's a two-hour spinoff story in the world of the Pathologic 2.</p>
+          </div>
+          <img src="images/the marbel nest.jpg" style="width: 100%; height: 100%;">
+        </a>
       </div>
       <!-- /fade css -->
       
