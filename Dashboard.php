@@ -96,9 +96,6 @@
                             ?>
                             <p class="welcome-text">Check the latest report</p>
                           </div>
-                          <div class="col-lg-3 col-md-4 d-flex">
-                            <button class="btn btn-primary w-100 align-self-center">Download Report</button>
-                          </div>
                       </div>
                   </div>
               </section>
@@ -135,7 +132,7 @@
                                 <div class="col-lg-3 col-md-6 d-flex my-3">
                                     <div class="mx-auto">
                                         <h6 class="text-muted">Games Sold</h6>
-                                        <h3 class="font-weight-bold">500000</h3>
+                                        <h3 class="font-weight-bold">12650342</h3>
                                         <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 23.00%</h6>
                                     </div>
                                 </div>
