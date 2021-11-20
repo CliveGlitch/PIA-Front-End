@@ -1,5 +1,13 @@
 <?php
   session_start();
+  include_once 'includes/dbh.inc.php';
+
+  $sql = "SELECT COUNT(*) FROM users;";
+  $result = mysqli_query($conn, $sql);
+  $resultCheck = mysqli_fetch_assoc($result);
+
+  $num_users = $resultCheck['total'];
+
 ?>
 
 <!DOCTYPE html>
@@ -117,14 +125,17 @@
                                 <div class="col-lg-3 col-md-6 d-flex stat my-3">
                                     <div class="mx-auto">
                                         <h6 class="text-muted">Number of Users</h6>
-                                        <h3 class="font-weight-bold">1200</h3>
+                                        <?php 
+                                          echo "<h3 class='font-weight-bold'>$num_users</h3>"
+                                        ?>
+                                        
                                         <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 81.50%</h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 d-flex my-3">
                                     <div class="mx-auto">
-                                        <h6 class="text-muted">New Users</h6>
-                                        <h3 class="font-weight-bold">124</h3>
+                                        <h6 class="text-muted">Games Sold</h6>
+                                        <h3 class="font-weight-bold">500000</h3>
                                         <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 23.00%</h6>
                                     </div>
                                 </div>
@@ -140,7 +151,7 @@
                           <div class="col-lg-8 my-3">
                               <div class="card rounded-0">
                                   <div class="card-header bg-light">
-                                    <h6 class="font-weight-bold mb-0">Number of users</h6>
+                                    <h6 class="font-weight-bold mb-0">Games Sold</h6>
                                   </div>
                                   <div class="card-body">
                                     <canvas id="myChart" width="300" height="150"></canvas>
@@ -230,8 +241,8 @@
                 data: {
                     labels: ['Agt 2021', 'Sep 2021', 'Oct 2021', 'Nov 2021'],
                     datasets: [{
-                        label: 'New Users',
-                        data: [50, 100, 150, 200],
+                        label: 'Games Sold',
+                        data: [7500, 10000, 15000, 20000],
                         backgroundColor: [
                             '#BB5B16',  
                             '#BB5B16',
