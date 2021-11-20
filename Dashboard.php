@@ -2,7 +2,7 @@
   session_start();
   include_once 'includes/dbh.inc.php';
 
-  $sql = "SELECT COUNT(*) FROM users;";
+  $sql = "SELECT COUNT(*) AS total FROM users;";
   $result = mysqli_query($conn, $sql);
   $resultCheck = mysqli_fetch_assoc($result);
 
