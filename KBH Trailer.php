@@ -18,10 +18,10 @@
           <br>A brief but tumultuous episode of the town’s life is interwoven with the story of a gang of childhood friends coming back together. It’s up to them to journey down memory lanes and rekindle their friendship, but their memories of the past and the very bonds between them become threatened...
           <br>Add "Know by heart" to your wishlist at Steam:
           </span>
-        </div> 
-        <li class='buy__btn'>
+          <li class='buy__btn'>
           <a href='https://store.steampowered.com/app/685670/Know_by_heart/' class='buy_button'>Add to wishlist!</a>
         </li>
+        </div> 
       </div>
     </div>
     
