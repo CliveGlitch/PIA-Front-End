@@ -7,9 +7,12 @@
 		<div class="about-us-all">
       <img class="about-us-img" src="images/Know by heart news.jpg">
       <div class="about-us-container">
+        <div class="about-us-title">
+        <span>New Trailer of Know by heart out!</span>
+        </div>
         <div class="about-us-text">
-          <span>New Trailer of Know by heart out!
-          <br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<br>
+          <span><br>December 31, 2020
+          <br><br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<br>
           </span>
           <a class="link_news" href="https://www.youtube.com/watch?v=PcqI9du-SJc">
             <img class="about-us-img" src="images/Youtube KBH.jpg">
