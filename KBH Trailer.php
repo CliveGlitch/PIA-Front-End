@@ -1,14 +1,12 @@
 <?php
   include_once 'Header.php'
 ?>
-
-    <!-- Image Section -->
     
 		<div class="about-us-all">
       <img class="about-us-img" src="images/Know by heart news.jpg">
       <div class="about-us-container">
         <div class="about-us-text">
-          <h1 class="about-us-title"> Check out our games! </h1>
+          <h1 class="about-us-title"> New Trailer of Know by heart out! </h1>
           <span><br>December 31, 2020
           <br><br>Know by heart (First on PC/PS4/Xbox One/Nintendo Switch. Later on iPhone/Android)<br>
           </span>
