@@ -7,6 +7,16 @@
   $resultCheck = mysqli_fetch_assoc($result);
 
   $num_users = $resultCheck['total'];
+
+  $query = "SELECT usersName FROM users ORDER BY usersId DESC LIMIT 1;";
+  $result1 = mysqli_query($conn, $query);
+  $resultCheck1 = mysqli_num_rows($result1);
+
+  if($resultCheck1 > 0){
+    while($row = mysqli_fetch_assoc($result1)){
+      $last_user = $row['usersName'];
+    }
+  }
 ?>
 
 <!DOCTYPE html>
@@ -113,8 +123,10 @@
                                 </div>
                                 <div class="col-lg-3 col-md-6 d-flex stat my-3">
                                     <div class="mx-auto">
-                                        <h6 class="text-muted">Active Players (Steam)</h6>
-                                        <h3 class="font-weight-bold">5342</h3>
+                                        <h6 class="text-muted">Newest User</h6>
+                                        <?php 
+                                          echo "<h3 class='font-weight-bold'>$last_user</h3>"
+                                        ?>
                                         <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 12.50%</h6>
                                     </div>
                                 </div>
