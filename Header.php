@@ -7,7 +7,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ice Pick Lodge</title>
+    <title>Ice-Pick Lodge</title>
     <link rel = "icon" href = "images/Icon.png" type = "image/x-icon">
     <link rel="stylesheet" href="assets/styles.css" />
     <link rel="stylesheet" href="assets/slider.css" />
@@ -28,7 +28,7 @@
     <!-- Navbar Section -->
     <nav class="navbar">
       <div class="navbar__container">
-        <a href="index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
+        <a href="index.php" id="navbar__logo"></i>Ice-Pick Lodge</a>
         <ul class="navbar__menu">
           <li class="navbar__item">
             <a href="News.php" class="navbar__links">News</a>

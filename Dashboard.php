@@ -24,7 +24,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ice Pick Lodge</title>
+    <title>Ice-Pick Lodge</title>
     <link rel = "icon" href = "images/Icon.png" type = "image/x-icon">
     
     <link
@@ -54,7 +54,7 @@
     <!-- Navbar Section -->
     <nav class="navbar">
       <div class="navbar__container">
-        <a href="index.php" id="navbar__logo"></i>Ice Pick Lodge</a>
+        <a href="index.php" id="navbar__logo"></i>Ice-Pick Lodge</a>
         <div class="navbar__toggle" id="mobile-menu">
           <span class="bar"></span> <span class="bar"></span>
           <span class="bar"></span>
