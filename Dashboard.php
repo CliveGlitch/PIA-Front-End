@@ -217,7 +217,9 @@
                                           <small class="d-block text-muted">Pathologic 2 Steam</small>
                                         </div>
                                     </div>
-                                    <button class="btn btn-primary w-100">See all</button>
+                                    <a href="https://store.steampowered.com/developer/icepicklodge/">
+                                      <button class="btn btn-primary w-100">Check Steam Page</button>
+                                    </a>
                                 </div>
                             </div>
                           </div>
