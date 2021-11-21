@@ -127,7 +127,6 @@
                                         <?php 
                                           echo "<h3 class='font-weight-bold'>$last_user</h3>"
                                         ?>
-                                        <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 12.50%</h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 d-flex stat my-3">
@@ -136,8 +135,6 @@
                                         <?php 
                                           echo "<h3 class='font-weight-bold'>$num_users</h3>"
                                         ?>
-                                        
-                                        <h6 class="text-success"><i class="icon ion-md-arrow-dropup-circle"></i> 81.50%</h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6 d-flex my-3">
