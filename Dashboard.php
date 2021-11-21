@@ -14,7 +14,7 @@
 
   if($resultCheck1 > 0){
     while($row = mysqli_fetch_assoc($result1)){
-      $last_user = $row['usersName'];
+      $last_user = $row['usersUid'];
     }
   }
 ?>
