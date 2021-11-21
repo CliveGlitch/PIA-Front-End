@@ -8,7 +8,7 @@
 
   $num_users = $resultCheck['total'];
 
-  $query = "SELECT usersName FROM users ORDER BY usersId DESC LIMIT 1;";
+  $query = "SELECT usersUid FROM users ORDER BY usersId DESC LIMIT 1;";
   $result1 = mysqli_query($conn, $query);
   $resultCheck1 = mysqli_num_rows($result1);
 
